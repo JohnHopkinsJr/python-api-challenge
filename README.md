@@ -31,7 +31,7 @@ Include a print log of each city as it's being processed with the city number an
 Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
 
-Part II - VacationPy
+##Part II - VacationPy
 Now let's use your skills in working with weather data to plan future vacations. Use jupyter-gmaps and the Google Places API for this part of the assignment.
 
 
